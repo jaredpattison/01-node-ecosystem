@@ -6,13 +6,13 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/jaredpattison/01-node-ecosystem.svg?branch=master)](https://www.travis-ci.com/jaredpattison/01-node-ecosystem)
+* [repo](https://github.com/jaredpattison/01-node-ecosystem)
+* [travis](https://www.travis-ci.com/jaredpattison/01-node-ecosystem)
+* [server](https://jared01.herokuapp.com/)
 
 ### Modules
-#### `modulename.js`
+#### `arithmetic.js`
 ##### Exported Values and Methods
 
 ###### `foo(thing) -> string`
@@ -23,7 +23,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+* `PORT` - Defined in ENV
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
